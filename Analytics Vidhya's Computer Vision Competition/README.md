@@ -3,6 +3,8 @@ Team Name : The Alphas
 
 Authors : Ashay Ajbani and Pritam Rao
 
+Competition Type : Image Classification
+
 Solution Type : Model Ensembling
 
 Number of Classes : 2
