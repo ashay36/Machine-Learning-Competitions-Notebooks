@@ -27,8 +27,10 @@ The task was to detect wheat heads in images and draw a bounding box around it.
 **Submission 1** : 
 
 For our first submission, we fine tuned pretrained *Efficient Detector* model for our problem.
-It gave us a score of 0.7331 on the public leaderboard. We are still in the process of 
-documenting the notebook. We will upload it within a week.
+It gave us a score of 0.7331 on the public leaderboard. 
+
+The file *wheat_detection_efficientdet.ipynb* includes training as well as inference. We have used Test Time 
+Augmentation and Weighted Boxes Fusion for making more accurate predictions.
 
 **Submission 2** :
  
