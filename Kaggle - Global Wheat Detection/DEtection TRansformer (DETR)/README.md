@@ -37,9 +37,8 @@ score of 0.5758 on the public leaderboard.
 
 We have uploaded the following DETR notebooks :
  
- 1) *wheat_detection_eda.ipynb* : Exploratory Data Analysis on the dataset.
- 2) *wheat_detection_detr_training.ipynb* : Includes processing the dataset and training on detr.
- 3) *wheat_detection_detr_inference.ipynb* : Making predictions on the test images using the trained model.
+ 1) *wheat_detection_detr_training.ipynb* : Includes processing the dataset and training on detr.
+ 2) *wheat_detection_detr_inference.ipynb* : Making predictions on the test images using the trained model.
 
 We have documented the notebook so that you can easily use for your own applications.
 
