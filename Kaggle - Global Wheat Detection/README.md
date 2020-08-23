@@ -14,9 +14,9 @@ Pretrained Models Used :
 1) DETR (Submission 1)
 2) Efficient Detector (Submission 2)
 
-Public Leaderborad Rank : 858/2270
+Public Leaderborad Rank : 481/2270
 
-Current Private Leaderboard Rank : 870/2270
+Private Leaderboard Rank : 354/2270
 ```
 
 The competition was hosted on ```https://www.kaggle.com/c/global-wheat-detection```.
